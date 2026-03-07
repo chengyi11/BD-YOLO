@@ -9,6 +9,6 @@ A satellite/aerial bridge detection dataset with manual annotations.
 
 * Download index (PATREO downloads page):
 
-  * [https://drive.google.com/file/d/1jldRG2yJnrudfNukr-99xVGWOMZq6GyN/view?usp=sharing]
+  [* [https://drive.google.com/file/d/1jldRG2yJnrudfNukr-99xVGWOMZq6GyN/view?usp=sharing]](https://drive.google.com/file/d/1JYMXYKfcCmLDGkaR1CBmqDRGQgHmwGfs/view?usp=drive_link)
 
 
