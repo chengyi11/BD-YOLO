@@ -13,7 +13,7 @@
 
 ## Overview
 
-**BD-YOLO** is a bridge detection framework for remote sensing imagery, designed to improve the recognition of **small bridges** under complex backgrounds.  
+**BD-YOLO** is a bridge detection framework for remote sensing images, designed to improve the recognition of **small bridges** under complex backgrounds.  
 
 This repository provides resources for **bridge detection** research, including dataset information and citation details for the published paper.
 
@@ -25,7 +25,7 @@ This project supports training and evaluation on the following bridge-detection 
 
 ### MBDD (Bridge Detection Dataset)
 
-MBDD is a **self-constructed bridge detection dataset** designed for optical remote sensing imagery at **sub-meter spatial resolution**.  
+MBDD is a **self-constructed bridge detection dataset** designed for optical remote sensing images at **sub-meter spatial resolution**.  
 It covers the **Beijing–Tianjin–Hebei region in China** and is built to support bridge detection under diverse geographic and background conditions.
 
 #### Key Features
@@ -40,7 +40,7 @@ Contains **11,461 optical remote sensing images**, each with a spatial size of *
 A total of **16,069 bridge instances** are manually annotated for detection tasks.
 
 
-> MBDD is intended to provide a practical benchmark for bridge detection in high-resolution remote sensing imagery, especially in scenes with complex backgrounds and elongated small targets.
+> MBDD is intended to provide a practical benchmark for bridge detection in high-resolution remote sensing images, especially in scenes with complex backgrounds and elongated small targets.
 
 #### Download
 - **PATREO / UFMG download page**  
