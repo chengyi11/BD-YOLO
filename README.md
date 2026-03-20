@@ -1,14 +1,66 @@
+<div align="center">
 
-## Datasets
+# BD-YOLO  
+### Boosting Small Bridge Detection via Edge-Aware Super-Resolution and Gabor–Laplacian Convolutions
 
-This project supports training/evaluation on the following bridge-detection datasets.
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20GRSL-blue.svg)](https://doi.org/10.1109/LGRS.2026.3673615)
+[![Task](https://img.shields.io/badge/Task-Bridge%20Detection-green.svg)]()
+[![Domain](https://img.shields.io/badge/Domain-Remote%20Sensing-orange.svg)]()
 
-### 1) MBDD (Bridge Dataset, PATREO/UFMG)
+</div>
 
-A satellite/aerial bridge detection dataset with manual annotations.
+---
 
-* Download index (PATREO downloads page):
+## Overview
 
-  [* [https://drive.google.com/file/d/1jldRG2yJnrudfNukr-99xVGWOMZq6GyN/view?usp=sharing]](https://drive.google.com/file/d/1JYMXYKfcCmLDGkaR1CBmqDRGQgHmwGfs/view?usp=drive_link)
+**BD-YOLO** is a bridge detection framework for remote sensing imagery, designed to improve the recognition of **small bridges** under complex backgrounds.  
+The method enhances fine-detail perception through:
 
+- **Edge-Aware Super-Resolution**
+- **Gabor–Laplacian Convolutions**
 
+This repository provides resources for **bridge detection** research, including dataset information and citation details for the published paper.
+
+---
+
+## Dataset
+
+This project supports training and evaluation on the following bridge-detection dataset.
+
+### MBDD (Bridge Dataset, PATREO/UFMG)
+
+A satellite/aerial bridge detection dataset with **manual annotations**, specifically constructed for bridge detection in remote sensing imagery.
+
+#### Download
+- **PATREO / UFMG download page**  
+  [Google Drive Download Link](https://drive.google.com/file/d/1JYMXYKfcCmLDGkaR1CBmqDRGQgHmwGfs/view?usp=drive_link)
+
+> **Note:** If you want to use another official download entry, please replace the link above with your final confirmed dataset URL.
+
+---
+
+## Paper
+
+If you find this work useful in your research, please consider citing our paper:
+
+**BD-YOLO: Boosting Small Bridge Detection via Edge-Aware Super-Resolution and Gabor–Laplacian Convolutions**  
+*IEEE Geoscience and Remote Sensing Letters (GRSL), 2026*
+
+- **DOI:** [10.1109/LGRS.2026.3673615](https://doi.org/10.1109/LGRS.2026.3673615)
+
+---
+
+## Citation
+
+```bibtex
+@ARTICLE{11432906,
+  author={Shi, Chengyi and Li, Xin and Lyu, Xin and Zhang, Xuejie and Li, Xinyu and Gong, Che and Yan, Hao and Liu, Jing and Liu, Fan and Gao, Hongmin},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  title={BD-YOLO: Boosting Small Bridge Detection via Edge-Aware Super-Resolution and Gabor–Laplacian Convolutions},
+  year={2026},
+  volume={23},
+  number={},
+  pages={1-5},
+  keywords={Bridges;Kernel;Image edge detection;Feature extraction;YOLO;Superresolution;Interference;Spatial resolution;Detectors;Semantics;Bridge detection (BD);convolutional neural network;object detection;remote sensing image (RSI)},
+  doi={10.1109/LGRS.2026.3673615}
+}
