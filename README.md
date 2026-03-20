@@ -14,10 +14,6 @@
 ## Overview
 
 **BD-YOLO** is a bridge detection framework for remote sensing imagery, designed to improve the recognition of **small bridges** under complex backgrounds.  
-The method enhances fine-detail perception through:
-
-- **Edge-Aware Super-Resolution**
-- **Gabor–Laplacian Convolutions**
 
 This repository provides resources for **bridge detection** research, including dataset information and citation details for the published paper.
 
@@ -60,7 +56,7 @@ If you find this work useful in your research, please consider citing our paper:
 **BD-YOLO: Boosting Small Bridge Detection via Edge-Aware Super-Resolution and Gabor–Laplacian Convolutions**  
 *IEEE Geoscience and Remote Sensing Letters (GRSL), 2026*
 
-- **DOI:** [10.1109/LGRS.2026.3673615](https://doi.org/10.1109/LGRS.2026.3673615)
+- **DOI:** [10.1109/GRSL.2026.3673615](https://doi.org/10.1109/LGRS.2026.3673615)
 
 ---
 
