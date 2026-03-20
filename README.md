@@ -50,7 +50,6 @@ A total of **16,069 bridge instances** are manually annotated for detection task
 - **PATREO / UFMG download page**  
   [Google Drive Download Link](https://drive.google.com/file/d/1JYMXYKfcCmLDGkaR1CBmqDRGQgHmwGfs/view?usp=drive_link)
 
-> **Note:** If you want to use another official download entry, please replace the link above with your final confirmed dataset URL.
 
 ---
 
