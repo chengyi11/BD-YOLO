@@ -27,9 +27,24 @@ This repository provides resources for **bridge detection** research, including 
 
 This project supports training and evaluation on the following bridge-detection dataset.
 
-### MBDD (Bridge Dataset, PATREO/UFMG)
+### MBDD (Bridge Detection Dataset)
 
-A satellite/aerial bridge detection dataset with **manual annotations**, specifically constructed for bridge detection in remote sensing imagery.
+MBDD is a **self-constructed bridge detection dataset** designed for optical remote sensing imagery at **sub-meter spatial resolution**.  
+It covers the **Beijing–Tianjin–Hebei region in China** and is built to support bridge detection under diverse geographic and background conditions.
+
+#### Key Features
+
+🌍 **Regional Coverage**  
+Collected from the Beijing–Tianjin–Hebei region, with rich scene diversity across different geographic areas.
+
+🖼️ **Fixed Image Size**  
+Contains **11,461 optical remote sensing images**, each with a spatial size of **1024×1024 pixels**.
+
+🏗️ **Bridge Annotations**  
+A total of **16,069 bridge instances** are manually annotated for detection tasks.
+
+
+> MBDD is intended to provide a practical benchmark for bridge detection in high-resolution remote sensing imagery, especially in scenes with complex backgrounds and elongated small targets.
 
 #### Download
 - **PATREO / UFMG download page**  
